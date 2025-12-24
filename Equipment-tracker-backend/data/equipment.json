@@ -1,0 +1,44 @@
+[
+  {
+    "id": "bfdcbbb8-dfcd-4e26-8469-c1d6cff244c5",
+    "name": "aayush",
+    "type": "Vessel",
+    "status": "Active",
+    "lastCleanedDate": "2025-12-08"
+  },
+  {
+    "id": "7a8b3ef0-2f10-400e-a61b-dc028e8f74d4",
+    "name": "aayush",
+    "type": "Vessel",
+    "status": "Inactive",
+    "lastCleanedDate": "2025-12-01"
+  },
+  {
+    "id": "a11a57c0-165c-4bae-b884-063c189b7c5c",
+    "name": "old monk",
+    "type": "Vessel",
+    "status": "Inactive",
+    "lastCleanedDate": "2025-12-09"
+  },
+  {
+    "id": "8027db84-6fb5-4de8-b9d1-17779f984d35",
+    "name": "flowers",
+    "type": "Vessel",
+    "status": "Under Maintenance",
+    "lastCleanedDate": "2025-12-09"
+  },
+  {
+    "id": "d4f4084c-68f5-4a79-8972-4e1d262d94c1",
+    "name": "cycle",
+    "type": "Machine",
+    "status": "Active",
+    "lastCleanedDate": "2025-12-03"
+  },
+  {
+    "id": "bb133e09-d931-4176-b0a7-f5d133fe7578",
+    "name": "smith machine",
+    "type": "Machine",
+    "status": "Inactive",
+    "lastCleanedDate": "2025-12-02"
+  }
+]
