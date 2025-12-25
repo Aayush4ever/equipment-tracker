@@ -3,7 +3,7 @@ import EquipmentForm from "./components/EquipmentForm";
 import EquipmentTable from "./components/EquipmentTable";
 import "./App.css"
 
-const API = "https://equipment-tracker-1.onrender.com";
+const API = "https://equipment-tracker-1.onrender.com/api/equipment";
 
 export default function App() {
   const [equipment, setEquipment] = useState([]);
